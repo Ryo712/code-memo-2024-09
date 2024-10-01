@@ -17,3 +17,5 @@ export default async function Home() {
     </div>
   );
 }
+/*.tsxファイルではReactのコンポーネントを使い、UIを表示しています。<div> や <p> などのタグを使ってHTMLライクな構文でUIを定義しています。
+また、.ts ファイルの関数をインポートして使用しています。 */
